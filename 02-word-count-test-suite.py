@@ -130,3 +130,11 @@ class streamWCTestSuite:
 
 swcTS = streamWCTestSuite()
 swcTS.runTests()
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC SELECT * 
+# MAGIC FROM word_count_table
+# MAGIC ORDER BY count DESC
+# MAGIC LIMIT 5
