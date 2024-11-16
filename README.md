@@ -21,5 +21,5 @@ Testing Suites: Automates validation for both modes.
 ---
 
 ## Visualization
-###Top 5 most repeated words
+### Top 5 most repeated words
 ![imagen](https://github.com/user-attachments/assets/04c00523-3f25-4656-8baf-82e65643a961)
