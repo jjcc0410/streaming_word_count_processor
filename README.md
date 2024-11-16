@@ -15,9 +15,11 @@ Testing Suites: Automates validation for both modes.
 
 ## Arquitecture
 
-![Count Words Diagram drawio](https://github.com/user-attachments/assets/c4ce110d-4e1b-400d-b252-800427cf4bba)
+![streaming word count processor drawio](https://github.com/user-attachments/assets/010aff84-7e24-420e-aba9-95dc3f3723b7)
+
 
 ---
 
 ## Visualization
-![imagen](https://github.com/user-attachments/assets/4b76b120-95c8-43fb-88ad-1bf8c91c1149)
+###Top 5 most repeated words
+![imagen](https://github.com/user-attachments/assets/04c00523-3f25-4656-8baf-82e65643a961)
